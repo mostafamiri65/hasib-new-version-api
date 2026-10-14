@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>disable</Nullable>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <RootNamespace>HasibDmsNew.Application</RootNamespace>
+    <AssemblyName>HasibDmsNew.Application</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HasibDmsNew.Domain\HasibDmsNew.Domain.csproj" />
+  </ItemGroup>
+
+</Project>
